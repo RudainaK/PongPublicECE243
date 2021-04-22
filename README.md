@@ -22,9 +22,9 @@ And here's a demo with 2 balls. Note that this feature is only enabled for 2 pla
 
 ![](media/2ballsdemo.gif)
 
-A single player mode looks the same as a 2 player mode when just recording, so no demo for that. 
+A single player mode looks the same as a 2 player mode when just recording, so no demo for that. When the game ends, the following screen is displayed. 
 
-
+![](media/gameOver.png)
 
 
 
