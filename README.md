@@ -14,6 +14,21 @@ Pressing H displays the following
 
 Pressing H again takes you back to the main screen
 
+Here is a demo of the 2player mode
+
+![](media/basic2player.gif)
+
+And here's a demo with 2 balls. Note that this feature is only enabled for 2 player mode.
+
+![](media/2ballsdemo.gif)
+
+A single player mode looks the same as a 2 player mode when just recording, so no demo for that. 
+
+
+
+
+
+
 
 
 
